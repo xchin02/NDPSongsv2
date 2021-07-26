@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NDPSongsv2</string>
+    <string-array name="spinnerItems">
+        <item>1998</item>
+        <item>2002</item>
+        <item>2015</item>
+    </string-array>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="song_title">Song Title</string>
+    <string name="singers">Singers</string>
+    <string name="year">Year</string>
+    <string name="insert">Insert</string>
+    <string name="show_list">Show List</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="show_all_songs_with_5_stars">Show all songs with 5 stars</string>
+    <string name="song_id">Song ID</string>
+</resources>
